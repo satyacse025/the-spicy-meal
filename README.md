@@ -14,6 +14,6 @@ The goal of this project is to create a user-friendly, responsive, and visually 
 * HTML, Tailwind CSS, DaisyUI, JavaScript
 * API : [https://www.themealdb.com/api.php](https://www.themealdb.com/api.php)
 
-**Live Link:** [https://satyacse025.github.io/the-spicy-meal/]([Live Link: ](https://satyacse025.github.io/the-spicy-meal/)
+**Live Link:** [https://satyacse025.github.io/the-spicy-meal/](https://satyacse025.github.io/the-spicy-meal/)
 
 This project description covers the essential elements for a restaurant website that promotes the restaurant, improves customer engagement, and allows for online transactions such as ordering and reservations.
