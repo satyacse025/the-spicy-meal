@@ -71,5 +71,7 @@ const showMealDetails = meal => {
   show_meal_details.showModal();    
 }
 window.onload = function() {
-  loadFood('Potato');
+  let container = document.getElementById("btn-Potato");
+  container.click();
+  //loadFood('Potato');
 };
